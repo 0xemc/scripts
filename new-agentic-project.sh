@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# https://github.com/0xemc/scripts
 set -euo pipefail
 
 SCAFFOLD_REPO="git@github.com:0xemc/agentic-project-template.git"
